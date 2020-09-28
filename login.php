@@ -5,7 +5,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-   <title>Streamit - Responsive Bootstrap 4 Template</title>
+   <title>Vidéothéque</title>
    <!-- Favicon -->
    <link rel="shortcut icon" href="images/favicon.ico"/>
    <!-- Bootstrap CSS -->
@@ -33,20 +33,20 @@
             <div class="sign-user_card ">                    
                <div class="sign-in-page-data">
                   <div class="sign-in-from w-100 m-auto">
-                     <h3 class="mb-3 text-center">Sign in</h3>
+                     <h3 class="mb-3 text-center">Connexion</h3>
                      <form class="mt-4" action="index.html">
                         <div class="form-group">                                 
-                           <input type="email" class="form-control mb-0" id="exampleInputEmail1" placeholder="Enter email" autocomplete="off" required>
+                           <input type="email" class="form-control mb-0" id="exampleInputEmail1" placeholder="Votre mail" autocomplete="off" required>
                         </div>
                         <div class="form-group">                                 
-                           <input type="password" class="form-control mb-0" id="exampleInputPassword2" placeholder="Password" required>
+                           <input type="password" class="form-control mb-0" id="exampleInputPassword2" placeholder="Mot de passe" required>
                         </div>
                         
                            <div class="sign-info">
-                              <button type="submit" class="btn btn-hover">Sign in</button>
+                              <button type="submit" class="btn btn-hover">Connexion</button>
                               <div class="custom-control custom-checkbox d-inline-block">
                                  <input type="checkbox" class="custom-control-input" id="customCheck">
-                                 <label class="custom-control-label" for="customCheck">Remember Me</label>
+                                 <label class="custom-control-label" for="customCheck">Se souvenir</label>
                               </div>                                
                            </div>                                    
                         
@@ -55,10 +55,10 @@
                </div>
                <div class="mt-3">
                   <div class="d-flex justify-content-center links">
-                     Don't have an account? <a href="sign-up.html" class="text-primary ml-2">Sign Up</a>
+                     Vous n'avez pas de compte ? <a href="sign-up.html" class="text-primary ml-2">Créer un compte</a>
                   </div>
                   <div class="d-flex justify-content-center links">
-                     <a href="reset-password.html" class="f-link">Forgot your password?</a>
+                     <a href="reset-password.html" class="f-link">Mot de passe oublier ?</a>
                   </div>
                </div>
             </div>
